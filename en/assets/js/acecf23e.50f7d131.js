@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocs_site=globalThis.webpackChunkdocs_site||[]).push([[1903],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/bizagent-releases/en/blog","blogTitle":"Blog","authorsListPath":"/bizagent-releases/en/blog/authors"}')}}]);
